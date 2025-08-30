@@ -5,8 +5,6 @@
        width="150"
        height="150"></a>
 <br>
-Atualizado no dia <b>30/08/2025.</b>
-</p>
 <p>Todas as skins que eu to utilizando no osu no momento... </p>
 
 # [subahibi green cursor](https://moussedemacaruja.s-ul.eu/87FRyjDx)
