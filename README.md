@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
   <br>
-<p align="center">Todas as skins que eu to utilizando no osu no momento... </p>
+<p align="center">Todas as skins que eu to utilizando no momento... </p>
 
 # [subahibi green cursor](https://moussedemacaruja.s-ul.eu/87FRyjDx)
 [![](https://i.imgur.com/1uRRtfR.png)](https://moussedemacaruja.s-ul.eu/87FRyjDx)
