@@ -1,7 +1,6 @@
 # minju-skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/6657679">
-  <img src="https://a.ppy.sh/6657679"  
        width="150"
        height="150"></a>
   <br>
