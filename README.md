@@ -4,8 +4,8 @@
   <img src="https://a.ppy.sh/6657679"  
        width="150"
        height="150"></a>
-<br>
-<p>Todas as skins que eu to utilizando no osu no momento... </p>
+  <br>
+<p align="center">Todas as skins que eu to utilizando no osu no momento... </p>
 
 # [subahibi green cursor](https://moussedemacaruja.s-ul.eu/87FRyjDx)
 [![](https://i.imgur.com/1uRRtfR.png)](https://moussedemacaruja.s-ul.eu/87FRyjDx)
